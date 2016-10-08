@@ -27,7 +27,7 @@ Version: 1.0
  * -----------------------------------------------------------------------------
  */
 @import url(https://fonts.googleapis.com/css?family=Lato:400,300,300italic,400italic,700,700italic,900,900italic);
-@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,600,700,300italic,300);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,600,700,300italic,300);
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 @import "css/base.css";
 @import "css/responsive.css";
@@ -137,8 +137,8 @@ html, body{
   text-shadow:
 	-1px -1px 0 #000,
 	0px -1px 0 #000,
-	1px -1px 0 #000,  
-	
+	1px -1px 0 #000,
+
 }
 .hz_name, .hz_job{
 	display: block;
@@ -231,7 +231,7 @@ section.active {
 /*//////////////////////////////////////////
 ///////////////// Welcome /////////////////
 /////////////////////////////////////////*/
-.inner_section .vcard_block.message, 
+.inner_section .vcard_block.message,
 .inner_section .vcard_block.about_desc{
   margin-top: 20px;
 }
@@ -302,7 +302,7 @@ blockquote{
 /*contact_social*/
 .welcome_section .contact_social{
   margin: 20px 0;
-  
+
 }
 
 .welcome_section .hz_contact{
@@ -353,34 +353,34 @@ blockquote{
 	-ms-animation: rotateWord 18s linear infinite 0s;
 	animation: rotateWord 18s linear infinite 0s;
 }
-.rotate_words span:nth-child(2) { 
-    -webkit-animation-delay: 3s; 
-	-ms-animation-delay: 3s; 
-	animation-delay: 3s; 
+.rotate_words span:nth-child(2) {
+    -webkit-animation-delay: 3s;
+	-ms-animation-delay: 3s;
+	animation-delay: 3s;
 	color: #72a700;
 }
-.rotate_words span:nth-child(3) { 
-    -webkit-animation-delay: 6s; 
-	-ms-animation-delay: 6s; 
-	animation-delay: 6s; 
-	color: #6da000;	
+.rotate_words span:nth-child(3) {
+    -webkit-animation-delay: 6s;
+	-ms-animation-delay: 6s;
+	animation-delay: 6s;
+	color: #6da000;
 }
-.rotate_words span:nth-child(4) { 
-    -webkit-animation-delay: 9s; 
-	-ms-animation-delay: 9s; 
-	animation-delay: 9s; 
+.rotate_words span:nth-child(4) {
+    -webkit-animation-delay: 9s;
+	-ms-animation-delay: 9s;
+	animation-delay: 9s;
 	color: #659301;
 }
-.rotate_words span:nth-child(5) { 
-    -webkit-animation-delay: 12s; 
-	-ms-animation-delay: 12s; 
-	animation-delay: 12s; 
+.rotate_words span:nth-child(5) {
+    -webkit-animation-delay: 12s;
+	-ms-animation-delay: 12s;
+	animation-delay: 12s;
 	color: #5d8802;
 }
-.rotate_words span:nth-child(6) { 
-    -webkit-animation-delay: 15s; 
-	-ms-animation-delay: 15s; 
-	animation-delay: 15s; 
+.rotate_words span:nth-child(6) {
+    -webkit-animation-delay: 15s;
+	-ms-animation-delay: 15s;
+	animation-delay: 15s;
 	color: #588101;
 }
 @-webkit-keyframes rotateWord {
@@ -1370,7 +1370,7 @@ article.blog_item{
 .contact_table_block table{
 	margin: 0;
 }
-.contact_table_block th, 
+.contact_table_block th,
 .contact_table_block td{
 	letter-spacing: 0.5px;
 }
